@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Find My Hero
 
-## Getting Started
+Find My Hero is a simple application whose main functionality is to search for Marvel Super Heroes and bring the data via API response.
 
-First, run the development server:
+Instructions:
+### Search your Hero by name:
+#### e.g.: Hulk, Iron Man, Captain America
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Languages and Features used:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ReactJs
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### NextJs
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### TypeScript
 
-## Learn More
+### Marvel API
 
-To learn more about Next.js, take a look at the following resources:
+### CSS Modules
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### SASS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### React Icons
 
-## Deploy on Vercel
+##########################################################
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Find My Hero é uma aplicação simples cuja principal funcionalidade é procurar por Super Heróis da Marvel e trazer os dados por meio da resposta da API.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Instruções:
+### Procure seu Herói pelo nome:
+#### Por exemplo: Hulk, Iron Man, Captain America
+
+## Linguagens e Features utilizadas:
+
+### ReactJs
+
+### NextJs
+
+### TypeScript
+
+### Marvel API
+
+### CSS Modules
+
+### SASS
+
+### React Icons
